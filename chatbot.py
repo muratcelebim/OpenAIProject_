@@ -50,12 +50,7 @@ if st.session_state["generated"]:
 
 
 
-"""
-streamlit run chatbot.py
 
-Bu kod ile çalıştır.
-
-"""
 
 
 
